@@ -1,6 +1,6 @@
 {
   "name": "@thingnoy/strapi-app-info",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "Show the app info from your file",
   "strapi": {
     "name": "strapi-app-info",

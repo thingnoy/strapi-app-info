@@ -1,3 +1,9 @@
+## [0.3.3](https://github.com/thingnoy/strapi-app-info/compare/v0.3.2...v0.3.3) (2024-06-19)
+
+### Fixes & improvements
+* fix: remove unused package ([99f1030](https://github.com/thingnoy/strapi-app-info/commit/99f10300cc73985ec54b5db0bbe4376731760ccc))
+* fix: use old package-lock ([b183eee](https://github.com/thingnoy/strapi-app-info/commit/b183eeeaab8c1c86669dc48a68057ea1d41d5985))
+
 ## [0.3.2](https://github.com/thingnoy/strapi-app-info/compare/v0.3.1...v0.3.2) (2024-06-19)
 
 ### Fixes & improvements
