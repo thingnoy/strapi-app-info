@@ -1,3 +1,8 @@
+## [0.2.0](https://github.com/thingnoy/strapi-app-info/compare/v0.1.0...v0.2.0) (2024-06-19)
+
+### Features
+* feat: update peer depend ([8e8d5db](https://github.com/thingnoy/strapi-app-info/commit/8e8d5db653d51b70adda251774200ac0949eb0e7))
+
 ## [0.1.0](https://github.com/thingnoy/strapi-app-info/compare/v0.0.1...v0.1.0) (2024-06-19)
 
 ### Features
