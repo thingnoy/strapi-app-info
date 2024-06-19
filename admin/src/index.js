@@ -23,7 +23,7 @@ export default {
       to: `/settings/${pluginId}`,
       intlLabel: {
         id: getTrad('plugin.name'),
-        defaultMessage: 'App Version',
+        defaultMessage: 'App Information',
       },
       Component: async () => {
         const component = await import('./pages/App');
