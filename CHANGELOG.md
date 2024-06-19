@@ -1,3 +1,8 @@
+## [0.3.1](https://github.com/thingnoy/strapi-app-info/compare/v0.3.0...v0.3.1) (2024-06-19)
+
+### Fixes & improvements
+* fix: publish with public access ([75dd034](https://github.com/thingnoy/strapi-app-info/commit/75dd03442990d59736ffc4b1e4a7dbf8906aae17))
+
 ## [0.3.0](https://github.com/thingnoy/strapi-app-info/compare/v0.2.0...v0.3.0) (2024-06-19)
 
 ### Fixes & improvements
