@@ -1,11 +1,11 @@
 {
   "name": "@thingnoy/strapi-app-info",
   "version": "0.0.1",
-  "description": "Show the app info from you file",
+  "description": "Show the app info from your file",
   "strapi": {
     "name": "strapi-app-info",
     "displayName": "App Info",
-    "description": "Show the app info from you file",
+    "description": "Show the app info from your file",
     "kind": "plugin"
   },
   "repository": {
