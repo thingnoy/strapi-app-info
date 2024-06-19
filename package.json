@@ -1,20 +1,16 @@
 {
-  "name": "@palmabit/strapi-app-version",
-  "version": "1.2.0",
-  "description": "Show the app version from package.json",
+  "name": "@thingnoy/strapi-app-info",
+  "version": "0.0.1",
+  "description": "Show the app info from you file",
   "strapi": {
-    "name": "strapi-app-version",
-    "displayName": "App Version",
-    "description": "Show the app version from package.json",
+    "name": "strapi-app-info",
+    "displayName": "App Info",
+    "description": "Show the app info from you file",
     "kind": "plugin"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Palmabit-IT/strapi-app-version.git"
   },
   "keywords": [
     "strapi",
-    "version"
+    "info"
   ],
   "dependencies": {
     "app-root-path": "^3.1.0"
@@ -23,17 +19,9 @@
     "@strapi/strapi": "^4.0.0"
   },
   "author": {
-    "name": "Palmabit",
-    "email": "hello@palmabit.com",
-    "url": "https://www.palmabit.com"
+    "name": "Thingnoy",
+    "email": "boyskypart@gmail.com"
   },
-  "maintainers": [
-    {
-      "name": "Palmabit",
-      "email": "hello@palmabit.com",
-      "url": "https://www.palmabit.com"
-    }
-  ],
   "engines": {
     "node": ">=12.x.x <=22.x.x",
     "npm": ">=6.0.0"

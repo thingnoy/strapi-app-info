@@ -7,13 +7,13 @@ Simple plugin for Strapi 4 to show the app version from package.json in the Sett
 ## Installation
 
 ```sh
-npm install @palmabit/strapi-app-version
+npm install @thingnoy/strapi-app-info
 ```
 
 or
 
 ```sh
-yarn add @palmabit/strapi-app-version
+yarn add @thingnoy/strapi-app-info
 ```
 
 To apply the plugin to Strapi run re-build command
@@ -21,7 +21,3 @@ To apply the plugin to Strapi run re-build command
 ```sh
 strapi build
 ```
-
-## Author
-
-[Palmabit.com](https://www.palmabit.com)
