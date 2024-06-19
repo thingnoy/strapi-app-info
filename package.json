@@ -8,6 +8,10 @@
     "description": "Show the app info from you file",
     "kind": "plugin"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thingnoy/strapi-app-info.git"
+  },
   "keywords": [
     "strapi",
     "info"
