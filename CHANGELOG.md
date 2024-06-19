@@ -1,3 +1,8 @@
+## [0.3.2](https://github.com/thingnoy/strapi-app-info/compare/v0.3.1...v0.3.2) (2024-06-19)
+
+### Fixes & improvements
+* fix: permission of github token ([fb45b52](https://github.com/thingnoy/strapi-app-info/commit/fb45b52fa8947e9205186000bca0b3e1667f8cfe))
+
 ## [0.3.1](https://github.com/thingnoy/strapi-app-info/compare/v0.3.0...v0.3.1) (2024-06-19)
 
 ### Fixes & improvements
