@@ -172,7 +172,7 @@ ${commits.join('\n')}`).join('\n')
 
     console.log(`npm publish @${repoName} ${nextVersion} to https://npm.pkg.github.com`)
     await $`echo "\`jq '.name="@${repoName}"' package.json\`" > package.json`
-    await $`npm publish --no-git-tag-version --registry=https://npm.pkg.github.com/ --userconfig ${npmrc}`
+    await $`npm publish --access public --no-git-tag-version --registry=https://npm.pkg.github.com/ --userconfig ${npmrc}`
   }
 
   console.log(chalk.bold('Great success!'))
